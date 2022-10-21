@@ -48,12 +48,13 @@ html, body{
   
   background: #0F595E;
   border-radius: 6px;
+  transition: 1s;
 }
 
 .menu ul li ul
 {
-    background: rgb(27, 27, 31);
-     display: none;
+  background: rgb(27, 27, 31);
+  display: none;
 }
 
 .menu ul li:hover ul
